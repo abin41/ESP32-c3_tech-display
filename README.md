@@ -1,1 +1,0 @@
-# ESP32-c3_tech-display
